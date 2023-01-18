@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T19:02:15.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="b75zreKnEAftyQ5j-UjN" type="github"><diagram id="RzGADzzFo9bJCzPGPlod">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-18T19:08:07.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="Gq-HAn_yF_qyZP5wXFWS" type="github">
+  <diagram id="8i-CrIc-HhIMSDAjtnyE" name="Page-1">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8oLeSrxBgVCrawk1syu3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="190" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-3" value="Patient" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-4" value="Hospital Management System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.11;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8oLeSrxBgVCrawk1syu3-6" target="8oLeSrxBgVCrawk1syu3-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-6" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="265" y="210" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="320" as="sourcePoint" />
+            <mxPoint x="290" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8oLeSrxBgVCrawk1syu3-9" target="8oLeSrxBgVCrawk1syu3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-9" value="check patient id in the system" style="ellipse;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="425" y="240" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8oLeSrxBgVCrawk1syu3-13" target="8oLeSrxBgVCrawk1syu3-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-13" value="retrive medical file" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="8oLeSrxBgVCrawk1syu3-15" target="8oLeSrxBgVCrawk1syu3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-15" value="send information to doctor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-28" value="end" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="265" y="410" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8oLeSrxBgVCrawk1syu3-30" target="8oLeSrxBgVCrawk1syu3-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8oLeSrxBgVCrawk1syu3-30" value="Inquire for Adminssion or Check up" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="235" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
