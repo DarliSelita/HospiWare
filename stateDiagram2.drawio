@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T18:55:44.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.15" etag="z1Du-HvadnudT-kZSsrs" type="github"><diagram name="Page-1" id="8AKIqW0ZzLcSzr79SBvu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-01T18:56:06.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pGGui69bUiLLFUKJhIaR" version="20.8.15" type="github">
+  <diagram name="Page-1" id="8AKIqW0ZzLcSzr79SBvu">
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kFD4bufvKTDWvEvys1ir-1" value="Doctor Object" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-2" value="Doctor Registration" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-3" value="Add details &#xa;and&#xa;Issue ID card" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="kFD4bufvKTDWvEvys1ir-2">
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-4" value="Check Patient" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="95" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-5" value="Perform diagnosis&#xa;Prescribe Medicines&#xa;Prescribe tests&#xa;Review reports&#xa;Perform Operation" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="kFD4bufvKTDWvEvys1ir-4">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="kFD4bufvKTDWvEvys1ir-4" source="kFD4bufvKTDWvEvys1ir-4" target="kFD4bufvKTDWvEvys1ir-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kFD4bufvKTDWvEvys1ir-8" target="kFD4bufvKTDWvEvys1ir-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-8" value="&lt;b&gt;Doctor released&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-9" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="kFD4bufvKTDWvEvys1ir-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kFD4bufvKTDWvEvys1ir-3" target="kFD4bufvKTDWvEvys1ir-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kFD4bufvKTDWvEvys1ir-5" target="kFD4bufvKTDWvEvys1ir-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kFD4bufvKTDWvEvys1ir-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
