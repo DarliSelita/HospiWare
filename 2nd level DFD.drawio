@@ -1,1 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T19:56:57.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.13" etag="pvHJeck_sfHbs86pVFyt" type="github"><diagram name="Page-1" id="cy-e9LSC8dvup2PbgH7E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-01T20:07:35.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3xZYlioB9RPYJBZbo8g_" version="20.8.13" type="github">
+  <diagram name="Page-1" id="cy-e9LSC8dvup2PbgH7E">
+    <mxGraphModel dx="1900" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-1" target="8Ecgdwyz300ei4zrtxOE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-1" target="8Ecgdwyz300ei4zrtxOE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;ADMIN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-2" target="8Ecgdwyz300ei4zrtxOE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-2" value="Forgot Password" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-3" value="Send E-Mail To User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-4" target="8Ecgdwyz300ei4zrtxOE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-4" value="Login To System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-5" target="8Ecgdwyz300ei4zrtxOE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-5" value="Check Roles Of Access" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=21;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-6" target="8Ecgdwyz300ei4zrtxOE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-6" value="Check Credentials" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-7" target="8Ecgdwyz300ei4zrtxOE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-7" target="8Ecgdwyz300ei4zrtxOE-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-7" target="8Ecgdwyz300ei4zrtxOE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-7" target="8Ecgdwyz300ei4zrtxOE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-7" target="8Ecgdwyz300ei4zrtxOE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="8Ecgdwyz300ei4zrtxOE-7" target="8Ecgdwyz300ei4zrtxOE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-7" value="Manage Modules" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Manage Hospital Details&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="710" y="50" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-16" value="Manage Appointments&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="710" y="290" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Manage Patient&#39;s Medical File&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="710" y="110" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Manage Doctor Scheduling&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="710" y="170" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-19" value="Manage Hospital Staff&#39;s Timecards" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-26" value="Manage User Permissions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="480" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-27" value="Manage Hospital Fees" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="710" y="410" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-29" value="Manage User Roles" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-30" value="Manage System Admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry y="480" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=21;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8Ecgdwyz300ei4zrtxOE-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="200" as="sourcePoint" />
+            <mxPoint x="620" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-39" value="" style="endArrow=classic;html=1;rounded=0;fontSize=21;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="8Ecgdwyz300ei4zrtxOE-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="230" as="sourcePoint" />
+            <mxPoint x="720" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=21;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="8Ecgdwyz300ei4zrtxOE-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="255" as="sourcePoint" />
+            <mxPoint x="710" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-41" value="Manage Hospital Fees" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="410" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-42" value="Change Patient&#39;s Medical File When Needed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="350" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-43" value="Manage Appointments&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="710" y="290" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ecgdwyz300ei4zrtxOE-45" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Second Level DFD&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="600" width="990" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
