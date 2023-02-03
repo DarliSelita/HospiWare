@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T00:09:41.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.16" etag="JGhpVoooYZch1W0t0Oun" type="github"><diagram name="Page-1" id="uLVWnXDk5ADlCz1vWd_9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-03T00:53:33.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_02Q0_KPbNnbNBXvDXNY" version="20.8.16" type="github">
+  <diagram name="Page-1" id="uLVWnXDk5ADlCz1vWd_9">
+    <mxGraphModel dx="1050" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wSTexUNgP7cPEecpTsLj-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=150;exitDy=38;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=107;entryPerimeter=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-2" target="wSTexUNgP7cPEecpTsLj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-2" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-10" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-5" value="Recepsionist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="wSTexUNgP7cPEecpTsLj-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="5" as="sourcePoint" />
+            <mxPoint x="250" y="-45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-7" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;Register.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-140" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-4" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="200" y="-130" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-8" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=85;exitDy=14;exitPerimeter=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-8" target="wSTexUNgP7cPEecpTsLj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+            <mxPoint x="340" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-11" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;AppointmentForm.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-12" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="45" y="170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wSTexUNgP7cPEecpTsLj-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="210" as="sourcePoint" />
+            <mxPoint x="260" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-14" value="Patient" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=140;entryDy=14;entryPerimeter=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-15" target="wSTexUNgP7cPEecpTsLj-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-15" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-190" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-16" value="Medical Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-17" target="wSTexUNgP7cPEecpTsLj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-17" value="Doctor/&#xa;Surgeon" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=35;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-18" target="wSTexUNgP7cPEecpTsLj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-18" value="Nurse" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-20" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;Doctor.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-230" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-21" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="375" y="-220" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-24" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;Nurse.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="5" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-25" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="380" y="15" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-28" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-29" value="Hospital Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-30" target="wSTexUNgP7cPEecpTsLj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-30" value="Medical &#xa;Files" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-31" target="wSTexUNgP7cPEecpTsLj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-31" value="Surgery &#xa;Reports" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="670" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-34" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;MedicalFiles.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-35" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="465" y="370" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-36" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;SurgeryReports.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="380" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-37" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="675" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-41" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-42" value="Medical Analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-43" target="wSTexUNgP7cPEecpTsLj-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-43" value="Test Results" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wSTexUNgP7cPEecpTsLj-44" target="wSTexUNgP7cPEecpTsLj-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-44" value="Doctor Consults" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-45" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;DoctorConsults .html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-46" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="365" y="610" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-47" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;TestResults.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="610" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wSTexUNgP7cPEecpTsLj-48" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
